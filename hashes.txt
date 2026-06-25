@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mourir D'aimer
+
+This log tracks the cryptographic history and versioning for the song **Mourir D'aimer** (mourir-daimer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T11:59:05.638040 | `v1` | `b9c8405aac714f5770e0e599f3f647a8216d25c2ca92fa78b2bc58999d3ce318` | `a76e2080f4f4bfd6618590ccb6b5f62e6d7cf3c836bfdd049850f834a29ebfba` | `2026-06-25_mourir-daimer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
