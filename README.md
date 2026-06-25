@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mourir-daimer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Mourir D'aimer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mourir-daimer/) |
+| **Get License** | [Music Rights & Licensing for Mourir D'aimer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mourir-daimer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Paris s'allume et mon cœur perd le nord
+> Baby, you know, je veux ton corps à corps
+> Un seul de tes regards et je frôle le danger
+> Ce soir je suis prêt à mourir d'aimer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
